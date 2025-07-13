@@ -1,0 +1,19 @@
+.icon-section i{
+
+   font-size:25px;
+   
+   margin-top:20px;
+}
+.whatsapp{
+    color: green;
+}
+.instagram{
+    color: red;
+}
+.facebook{
+    color: blue;
+
+}
+.location{
+    color: black;
+}
